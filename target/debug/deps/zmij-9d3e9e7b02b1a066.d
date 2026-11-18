@@ -1,0 +1,9 @@
+/home/ad.rapidops.com/vishruti.chachadiya/Documents/Training/Rust_YT/todo-api/target/debug/deps/zmij-9d3e9e7b02b1a066.d: /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/lib.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/stdarch_x86.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/traits.rs
+
+/home/ad.rapidops.com/vishruti.chachadiya/Documents/Training/Rust_YT/todo-api/target/debug/deps/libzmij-9d3e9e7b02b1a066.rlib: /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/lib.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/stdarch_x86.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/traits.rs
+
+/home/ad.rapidops.com/vishruti.chachadiya/Documents/Training/Rust_YT/todo-api/target/debug/deps/libzmij-9d3e9e7b02b1a066.rmeta: /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/lib.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/stdarch_x86.rs /home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/traits.rs
+
+/home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/lib.rs:
+/home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/stdarch_x86.rs:
+/home/ad.rapidops.com/vishruti.chachadiya/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.23/src/traits.rs:
